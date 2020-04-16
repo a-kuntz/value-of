@@ -41,6 +41,10 @@ excuses for not writing tests
 - make up regression test suite
   - detect bugs early => cheap to fix
   - tests will guide you to the bug
+
+<!-- slide vertical=true -->
+## Value of software tests (2)
+
 - basis for refactoring
   - detect hidden side effects
 - encourages to think before coding
