@@ -84,6 +84,44 @@ excuses for not writing tests
   - ! 50% newbies (<5a experience) at any time !
 
 <!-- slide -->
+## Costs of bad toolchain are underestimated
+
+team waiting x hours per day for CG/compiler
+
+vs.
+
+spend time to fix the problem
+
+<!-- slide vertical=true -->
+## Value of automated toolchain
+
+- bad toolchains drain developers power
+
+<!-- slide vertical=true -->
+## Automation of toolchain
+
+- script/automate every step
+  - documentation
+  - automation
+
+<!-- slide -->
+## Optimize for maintainability
+
+readability
+
+- code is writen once
+- code is read multiple (hundred?) times
+
+<!-- slide vertical=true -->
+## Be beginners proof
+
+50% of sw developers are beginners.
+
+At any time!
+
+[-> Robert C. Martin]
+
+<!-- slide -->
 ## Acknowledging the value
 
 of clean software development
