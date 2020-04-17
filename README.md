@@ -52,10 +52,10 @@ and its underestimated features
   <!-- .element: class="fragment" -->
 - progress indicator
   <!-- .element: class="fragment" -->
+- tests do speedup develoment!
+  <!-- .element: class="fragment" -->
 - fun!
   <!-- .element: class="fragment" -->
-
-> tests do speedup develoment!<!-- .element: class="fragment" -->
 
 <!-- slide -->
 ## Value of feature branches
