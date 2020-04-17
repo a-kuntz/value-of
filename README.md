@@ -18,7 +18,6 @@ and its underestimated features
 - sw tests
 - feature branches
 - software reviews
-- toolchain automation
 
 <!-- slide -->
 ## Tests are underestimated
