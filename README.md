@@ -13,22 +13,14 @@ presentation:
 and its underestimated features
 
 <!-- slide vertical=true -->
-## Value of...
+## Why I Appreciate
+## the value of...
 
 - sw tests
 - feature branches
-- software reviews
+- sw reviews
 
 <!-- slide -->
-## Tests are underestimated
-
-excuses for not writing tests
-
-- overhead
-- time consuming
-- delays feature development
-
-<!-- slide vertical=true -->
 ## Value of software tests
 
 - incubator for development
@@ -87,8 +79,8 @@ excuses for not writing tests
   - ! 50% newbies (<5a experience) at any time !
 
 <!-- slide -->
-## Acknowledging the value
+## Appreciate the value of...
 
-of clean software development
-
-reflects maturity
+- sw tests
+- feature branches
+- sw reviews
