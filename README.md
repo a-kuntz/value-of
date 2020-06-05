@@ -8,11 +8,12 @@ presentation:
 <!-- slide -->
 # The value of...
 
-## state-of-the-art open-source software development process
+## a state-of-the-art
+## software development process
 
 and its underestimated features
 
-<!-- slide vertical=true -->
+<!-- slide vertical -->
 ## Why I Appreciate
 ## the value of...
 
@@ -21,14 +22,28 @@ and its underestimated features
 - sw reviews
 
 <!-- slide -->
-## Value of software tests
+## The value of software tests
 
-- incubator for development
+- incubator for feature development
   <!-- .element: class="fragment" -->
-- sample code
+  - maybe implement test driven?
+- encurage thinking before coding
   <!-- .element: class="fragment" -->
-  - up to date developer documentation for main use cases
-- great debugging tool
+  - focus coding on single feature
+  - plan interfaces
+  - increase modularity
+- sample code for main use cases
+  <!-- .element: class="fragment" -->
+  - up to date developer documentation
+- progress indicator
+  <!-- .element: class="fragment" -->
+  - definition of done
+  - fun!
+
+<!-- slide vertical=true -->
+## The value of software tests (2)
+
+- debugging tool
   <!-- .element: class="fragment" -->
   - reproduce error condition
   - divide and conquer
@@ -36,60 +51,53 @@ and its underestimated features
   <!-- .element: class="fragment" -->
   - detect bugs early => cheap to fix
   - tests will guide you to the bug
-
-<!-- slide vertical=true -->
-## Value of software tests (2)
-
 - basis for refactoring
   <!-- .element: class="fragment" -->
-  - detect hidden side effects
-- encourages to think before coding
-  <!-- .element: class="fragment" -->
-  - focus coding on single feature
-- code may be more testable? => plan interfaces?
-  <!-- .element: class="fragment" -->
+  - refactor to keep sw fit
+  - tests detect hidden side effects
 - contribute to V&V effort
-  <!-- .element: class="fragment" -->
-- progress indicator
   <!-- .element: class="fragment" -->
 - tests do speedup develoment!
   <!-- .element: class="fragment" -->
-- fun!
-  <!-- .element: class="fragment" -->
 
 <!-- slide -->
-## Value of feature branches
+## The value of feature branches
 
-- feature branch is complete
+- feature branch comprises complete development step
   <!-- .element: class="fragment" -->
   - implementation
-  - example usage as a testcase
-- separate experiments from master
+  - documentation adjustment
+  - build system adjustment
+  - sample usage as testcase
+- separate stubs/experiments from master
   <!-- .element: class="fragment" -->
-  - maybe keep for later use
+  - hand over stubs to other developer
+  - maybe keep experiments for later use
   - playground for newbies to contribute
-- see related changes in context
+- context for related changes
   <!-- .element: class="fragment" -->
   - do code review, cleanup, fix tests *before* merging
   - recap context of code change from history
 - keep master clean and consistent
   <!-- .element: class="fragment" -->
-  - feature is 100% in or not
+  - no partial features on master
   - master is always fit and ready for release
 
 <!-- slide -->
-## Value of software reviews
+## The value of software reviews
 
-- see all related changes of a feature in context
+- review and adjust feature before merge
   <!-- .element: class="fragment" -->
-  - bird's-eye view on feature
+  - birds eye view on feature
+  - related changes in context
   - cleanup obsolete (explorative) code
   - ensure compliance with coding guidelines
   - test(s) maintained?
 - mentoring
   <!-- .element: class="fragment" -->
-  - teach
   - get second opinion
+  - share knowledge
+  - teach
   - evaluate sw design & side effects
 - encourage/enable new team members to contribute
   <!-- .element: class="fragment" -->
