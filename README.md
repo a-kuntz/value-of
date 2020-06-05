@@ -83,6 +83,8 @@ and its underestimated features
   - no partial features on master
   - master is always fit and ready for release
 
+![feature branch](img/feature-branches.png)
+
 <!-- slide -->
 ## The value of software reviews
 
