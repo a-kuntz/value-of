@@ -27,7 +27,7 @@ and its underestimated features
 - incubator for feature development
   <!-- .element: class="fragment" -->
   - maybe implement test driven?
-- encurage thinking before coding
+- encourage thinking before coding
   <!-- .element: class="fragment" -->
   - focus coding on single feature
   - plan interfaces
@@ -57,7 +57,7 @@ and its underestimated features
   - tests detect hidden side effects
 - contribute to V&V effort
   <!-- .element: class="fragment" -->
-- tests do speedup develoment!
+- tests do speedup development!
   <!-- .element: class="fragment" -->
 
 <!-- slide -->
@@ -83,6 +83,7 @@ and its underestimated features
   - no partial features on master
   - master is always fit and ready for release
 
+<!-- slide -->
 ![feature branch](img/feature-branches.png)
 
 <!-- slide -->
