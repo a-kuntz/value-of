@@ -8,14 +8,12 @@ presentation:
 <!-- slide -->
 # The value of...
 
-## a state-of-the-art
-## software development process
+## a state-of-the-art<br> software development process
 
 and its underestimated features
 
 <!-- slide -->
-## Why I Appreciate
-## the value of...
+## Why I Appreciate<br> the value of...
 
 - sw tests
 - feature branches
@@ -91,8 +89,7 @@ and its underestimated features
   - ! 50% newbies (<5a experience) at any time !
 
 <!-- slide -->
-## Appreciate
-## the value of...
+## Appreciate<br> the value of...
 
 - sw tests
 - feature branches
